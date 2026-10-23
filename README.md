@@ -1,5 +1,5 @@
-**Étudiant·e :** Prénom Nom
-**Formation :** L3 Économie / M1 Économie
+**Étudiant·e :** Gnienintcho OUATTARA
+**Formation :** L3 Économie
 **Année :** 2026-2027
 
 ## Description
